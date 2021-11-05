@@ -85,7 +85,7 @@ wifi:
   # Delete the following line to acknowledge that you know that you must enter your home network's
   # wi-fi credentials in the preceding two fields.  If for whatever reason the credentials are typed
   # in wrong you will have to set up a wifi network with the entered credentials to recover your plug.
-  #you_must_enter_wifi_credentials_above: true
+  you_must_enter_wifi_credentials_above: true
 
 
 logger:                               # Enable logging
